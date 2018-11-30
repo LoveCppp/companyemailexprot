@@ -4,7 +4,10 @@
     <bookmark url="file://$PROJECT_DIR$/src/main/java/emailExport.java" line="36" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1591ef7-01c6-4ba3-8329-c520616ee524" name="Default Changelist" comment="" />
+    <list default="true" id="b1591ef7-01c6-4ba3-8329-c520616ee524" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,7 +30,7 @@
         <counts>
           <entry key="class" value="8" />
           <entry key="java" value="1633" />
-          <entry key="md" value="74" />
+          <entry key="md" value="80" />
           <entry key="properties" value="44" />
           <entry key="txt" value="1" />
           <entry key="xml" value="6" />
@@ -37,7 +40,7 @@
         <counts>
           <entry key="CLASS" value="8" />
           <entry key="JAVA" value="1633" />
-          <entry key="Markdown" value="74" />
+          <entry key="Markdown" value="80" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="Properties" value="44" />
           <entry key="XML" value="6" />
@@ -46,6 +49,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="7" />
+          <entry key="create" value="1" />
           <entry key="iml" value="1" />
           <entry key="java" value="2" />
           <entry key="lst" value="2" />
@@ -61,7 +65,7 @@
           <entry key="IDEA_MODULE" value="1" />
           <entry key="JAVA" value="2" />
           <entry key="Markdown" value="1" />
-          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="PLAIN_TEXT" value="5" />
           <entry key="Properties" value="2" />
           <entry key="XML" value="4" />
         </counts>
@@ -70,20 +74,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/emailExport.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1793">
-              <caret line="101" selection-start-line="101" selection-end-line="101" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#2131#3783#0" expanded="true" />
-                <element signature="e#3782#3783#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/target/classes/emailExport.class">
           <provider selected="true" editor-type-id="text-editor">
@@ -137,12 +127,17 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="125">
-                <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+              <first_editor relative-caret-position="75">
+                <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/create">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -164,6 +159,9 @@
     <dirStrings>
       <dir>E:\code\companyemailexprot</dir>
     </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -196,6 +194,7 @@
     <option name="width" value="1296" />
     <option name="height" value="780" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -225,7 +224,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543562710975" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543563159779" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -270,12 +269,12 @@
       <option name="presentableId" value="Default" />
       <updated>1543482674717</updated>
       <workItem from="1543482680169" duration="3695000" />
-      <workItem from="1543553735206" duration="8953000" />
+      <workItem from="1543553735206" duration="9454000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12648000" />
+    <option name="totallyTimeSpent" value="13149000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -295,9 +294,9 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3295082" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3289689" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="12" />
@@ -426,11 +425,14 @@
     <entry file="file://$PROJECT_DIR$/emaillist.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/create">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="125">
-            <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <first_editor relative-caret-position="75">
+            <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
           </first_editor>
           <second_editor />
         </state>
